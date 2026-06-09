@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-30T16:24:19 IST" name="Suite" finished-at="2026-05-30T16:24:33 IST" duration-ms="13866">
+    <groups>
+    </groups>
+    <test started-at="2026-05-30T16:24:19 IST" name="Test1" finished-at="2026-05-30T16:24:27 IST" duration-ms="8064">
+      <class name="ng01.testcase6">
+        <test-method is-config="true" signature="BT()[pri:0, instance:ng01.testcase6@56de5251]" started-at="2026-05-30T16:24:19 IST" name="BT" finished-at="2026-05-30T16:24:19 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="a1()[pri:0, instance:ng01.testcase6@56de5251]" started-at="2026-05-30T16:24:19 IST" name="a1" finished-at="2026-05-30T16:24:19 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+      </class> <!-- ng01.testcase6 -->
+      <class name="ng01.testcase7">
+        <test-method signature="b1()[pri:0, instance:ng01.testcase7@71b1176b]" started-at="2026-05-30T16:24:19 IST" name="b1" finished-at="2026-05-30T16:24:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b1 -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:ng01.testcase7@71b1176b]" started-at="2026-05-30T16:24:27 IST" name="AT" finished-at="2026-05-30T16:24:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- ng01.testcase7 -->
+      <class name="ng01.testcase8">
+        <test-method signature="getTitle()[pri:1, instance:ng01.testcase8@6193932a]" started-at="2026-05-30T16:24:19 IST" name="getTitle" finished-at="2026-05-30T16:24:26 IST" duration-ms="7084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method signature="driverClose()[pri:2, instance:ng01.testcase8@6193932a]" started-at="2026-05-30T16:24:27 IST" name="driverClose" finished-at="2026-05-30T16:24:27 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- ng01.testcase8 -->
+    </test> <!-- Test1 -->
+    <test started-at="2026-05-30T16:24:28 IST" name="Test2" finished-at="2026-05-30T16:24:33 IST" duration-ms="5616">
+      <class name="ng01.testcase6">
+        <test-method is-config="true" signature="BT()[pri:0, instance:ng01.testcase6@22a637e7]" started-at="2026-05-30T16:24:28 IST" name="BT" finished-at="2026-05-30T16:24:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="a1()[pri:0, instance:ng01.testcase6@22a637e7]" started-at="2026-05-30T16:24:28 IST" name="a1" finished-at="2026-05-30T16:24:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+      </class> <!-- ng01.testcase6 -->
+      <class name="ng01.testcase7">
+        <test-method signature="b1()[pri:0, instance:ng01.testcase7@6fe7aac8]" started-at="2026-05-30T16:24:28 IST" name="b1" finished-at="2026-05-30T16:24:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b1 -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:ng01.testcase7@6fe7aac8]" started-at="2026-05-30T16:24:33 IST" name="AT" finished-at="2026-05-30T16:24:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- ng01.testcase7 -->
+      <class name="ng01.testcase8">
+        <test-method signature="getTitle()[pri:1, instance:ng01.testcase8@1d119efb]" started-at="2026-05-30T16:24:28 IST" name="getTitle" finished-at="2026-05-30T16:24:32 IST" duration-ms="4550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method signature="driverClose()[pri:2, instance:ng01.testcase8@1d119efb]" started-at="2026-05-30T16:24:32 IST" name="driverClose" finished-at="2026-05-30T16:24:33 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- ng01.testcase8 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
