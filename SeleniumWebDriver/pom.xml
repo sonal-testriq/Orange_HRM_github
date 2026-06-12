@@ -22,7 +22,7 @@
           <configuration>
              <suiteXmlFiles>
                 <suiteXmlFile>
-                  NewFile.xml
+                  src/test/java/OrangeHRM/NewFile.xml
                 </suiteXmlFile>
              </suiteXmlFiles>
           </configuration>
